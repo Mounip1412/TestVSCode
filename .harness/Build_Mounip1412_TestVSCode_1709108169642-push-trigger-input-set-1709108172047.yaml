@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_Mounip1412_TestVSCode_1709108169642-push-trigger-input-set
+  identifier: Build_Mounip1412_TestVSCode_1709108169642pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_Mounip1412_TestVSCode_1709108169642
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
