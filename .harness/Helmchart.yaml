@@ -1,8 +1,0 @@
-service:
-  name: Helmchart
-  identifier: Helmchart
-  orgIdentifier: default
-  projectIdentifier: AKS
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes
