@@ -1,0 +1,5 @@
+service:
+  name: Helmchart
+  identifier: Helmchart
+  orgIdentifier: default
+  projectIdentifier: AKS
